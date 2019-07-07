@@ -1,8 +1,8 @@
 # 二維陣列：計算陸地與海洋區域數量
 
-## 給定二維陣列：0 為海洋，1 為陸地；上下左右相鄰，即為一個區域。
-## 可改變 arrayLand 的陣列元素，直接修改 [two-dimensional-array.js](../blob/master/two-dimensional-array.js)
-## 計算過程之原始碼：[counted-areas.js](../blob/master/counted-areas.js)
+###### 給定二維陣列：0 為海洋，1 為陸地；上下左右相鄰，即為一個區域。
+###### 可改變 arrayLand 的陣列元素，直接修改 [two-dimensional-array.js](../blob/master/two-dimensional-array.js)
+###### 計算過程之原始碼：[counted-areas.js](../blob/master/counted-areas.js)
 
 ```javascript
 const arrayLand = [
